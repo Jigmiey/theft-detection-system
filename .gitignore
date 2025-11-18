@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Python virtual environments
+venv/
+.env/
+.venv/
+
+# Mac/Windows junk
+__pycache__/
+.DS_Store
+
+# IDE folders
+.vscode/
+.idea/

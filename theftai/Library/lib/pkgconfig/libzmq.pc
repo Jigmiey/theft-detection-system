@@ -1,0 +1,12 @@
+prefix=e:/theft-detection/theftai/Library
+exec_prefix=e:/theft-detection/theftai/Library
+libdir=e:/theft-detection/theftai/Library/lib
+includedir=e:/theft-detection/theftai/Library/include
+
+Name: libzmq
+Description: 0MQ c++ library
+Version: 4.3.5
+Libs: -L${libdir} -lzmq
+Libs.private: 
+Requires.private: 
+Cflags: -I${includedir} 

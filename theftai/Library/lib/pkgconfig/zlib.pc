@@ -1,0 +1,13 @@
+prefix=E:/theft-detection/theftai/Library
+exec_prefix=E:/theft-detection/theftai/Library
+libdir=E:/theft-detection/theftai/Library/lib
+sharedlibdir=E:/theft-detection/theftai/Library/lib
+includedir=E:/theft-detection/theftai/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

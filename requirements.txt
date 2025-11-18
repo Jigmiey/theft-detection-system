@@ -1,0 +1,18 @@
+python-dotenv
+opencv-python
+tqdm
+numpy
+matplotlib
+pandas
+ipykernel
+pillow
+
+# Stage 3 (open-source VLM)
+#transformers==4.45.2
+#accelerate==1.1.1
+#torch==2.4.0
+#torchvision==0.19.0
+#safetensors==0.4.5
+
+# Stage 3 — Groq VLM (LLaVA)
+requests==2.32.3
