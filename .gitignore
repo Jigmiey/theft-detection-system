@@ -13,3 +13,11 @@ __pycache__/
 # IDE folders
 .vscode/
 .idea/
+
+# Python virtual environments
+venv/
+env/
+.venv/
+theftai/Lib/
+theftai/Include/
+theftai/Scripts/
