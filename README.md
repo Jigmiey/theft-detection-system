@@ -37,4 +37,4 @@ Aggregates 5–30 frame descriptions and performs:
 
 
 
-<img src="/flowchart.png" alt="" width="500"/>
+<img src="images/flowchart.png" alt="" width="500"/>
