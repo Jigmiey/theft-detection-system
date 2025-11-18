@@ -29,3 +29,5 @@ Aggregates 5–30 frame descriptions and performs:
   "risk_assessment": "medium",
   "alert": true
 }
+
+<img src="flowchart.png" alt="Description of the image" width="500"/>
