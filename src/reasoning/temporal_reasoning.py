@@ -64,7 +64,7 @@ def analyze_temporal_behavior(frame_summaries):
 
     response = requests.post(GROQ_ENDPOINT, headers=headers, json=payload)
     if response.status_code != 200:
-        print("❌ Reasoning error:", response.text)
+        print(" Reasoning error:", response.text)
         response.raise_for_status()
 
     data = response.json()
@@ -83,5 +83,5 @@ def analyze_temporal_behavior(frame_summaries):
         parsed = json.loads(json_str)
         return parsed
     except json.JSONDecodeError:
-        print("⚠️ Could not parse JSON output. Returning raw text.")
+        print(" Could not parse JSON output. Returning raw text.")
         return {"raw_output": content}

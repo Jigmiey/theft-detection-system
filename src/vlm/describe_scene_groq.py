@@ -24,7 +24,7 @@ load_dotenv()
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 GROQ_ENDPOINT = "https://api.groq.com/openai/v1/chat/completions"
 
-# ✅ Use Groq's latest multimodal model (verify in your console)
+# Use Groq's latest multimodal model (verify in your console)
 MODEL_NAME = "meta-llama/llama-4-maverick-17b-128e-instruct"
 
 # -----------------------------------------------------------
@@ -35,10 +35,10 @@ You are a professional retail security analyst reviewing CCTV footage.
 
 Your task has two parts:
 
-1️⃣ **Observation Phase**
+1 **Observation Phase**
 - Describe what you SEE in the frame: how many people, their relative positions, clothing colors, actions, and objects.
 
-2️⃣ **Behavioral Analysis Phase**
+2 **Behavioral Analysis Phase**
 - Identify whether any person's behavior might indicate potential theft, concealment, or abnormal actions.
 - Focus on actions like: picking up items quickly, hiding items, avoiding staff, standing unusually close to exit, glancing around nervously, or interacting oddly with bags/pockets.
 - Label each person’s behavior as: "normal", "possibly suspicious", or "potential theft".
@@ -121,7 +121,7 @@ def describe_frame_groq(img: Image.Image, prompt: str = SECURITY_PROMPT) -> str:
 
     # Handle non-200 responses gracefully
     if response.status_code != 200:
-        print("❌ Response error:", response.text)
+        print(" Response error:", response.text)
         response.raise_for_status()
 
     data = response.json()
@@ -140,10 +140,10 @@ if __name__ == "__main__":
     test_image_path = "data/samples/frame1.png"
     if os.path.exists(test_image_path):
         img = Image.open(test_image_path)
-        print("🧠 Analyzing frame via Groq model...")
+        print(" Analyzing frame via Groq model...")
         result = describe_frame_groq(img)
         print(result)
     else:
-        print("⚠️ Test image not found at:", test_image_path)
+        print(" Test image not found at:", test_image_path)
 
 

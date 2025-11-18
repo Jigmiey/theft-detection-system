@@ -1,0 +1,2088 @@
+===FRAME SUMMARIES ===
+
+---Frame 0---
+```json
+{
+  "people_count": 5,
+  "persons": [
+    {
+      "position": "standing near the counter",
+      "clothing": "light blue shirt, dark pants",
+      "action": "adjusting hair",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe rack",
+      "clothing": "dark grey shirt, grey pants",
+      "action": "browsing shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the counter",
+      "clothing": "pink shirt, blue jeans",
+      "action": "interacting with staff",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near the counter",
+      "clothing": "white shirt, tan head covering",
+      "action": "assisting customer",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the exit",
+      "clothing": "yellow pants, red cap",
+      "action": "standing and observing",
+      "behavior_label": "possibly suspicious"
+    }
+  ],
+  "notable_objects": ["shoe racks", "counter with various items", "display posters"],
+  "scene_summary": "A shoe store with customers browsing and interacting with staff. One person is standing near the exit, observing.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 1---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near shelf",
+      "clothing": "gray shirt, jeans, white cap",
+      "action": "reaching for something on shelf",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "light blue shirt, dark pants",
+      "action": "bending down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near shelf",
+      "clothing": "plaid shirt, jeans, white cap",
+      "action": "reaching for something on shelf",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white shirt, tan cap",
+      "action": "standing, facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "pink shirt, jeans, red cap",
+      "action": "standing, looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near shelf",
+      "clothing": "white shirt, green bag",
+      "action": "walking, carrying bag",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "plaid shirt, yellow pants, tan cap",
+      "action": "standing, looking down",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["boxes on shelves", "items on counter", "bags being carried"],
+  "scene_summary": "Multiple customers and possibly staff members are in a shoe store. People are browsing and interacting with products.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 2---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the back shelf",
+      "clothing": "white cap, plaid shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back shelf",
+      "clothing": "gray shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "light blue shirt, dark pants",
+      "action": "being assisted",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center",
+      "clothing": "white cap, white shirt",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the right",
+      "clothing": "red cap, blue shirt",
+      "action": "interacting with staff",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the right",
+      "clothing": "white shirt, yellow pants",
+      "action": "assisting customer",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the right",
+      "clothing": "pink shirt, blue jeans",
+      "action": "being assisted",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shelves with boxes", "counter with items", "staff assisting customers"],
+  "scene_summary": "A busy retail environment with customers browsing and being assisted by staff.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 3---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near shelves",
+      "clothing": "gray shirt, white cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "light blue shirt",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near shoe display",
+      "clothing": "white shirt, tan cap",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "pink shirt, yellow pants",
+      "action": "interacting with staff",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "red cap, white shirt",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "blue checkered shirt, yellow pants",
+      "action": "interacting with customer",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near shelves",
+      "clothing": "gray shirt, white cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "counter with items on it"],
+  "scene_summary": "A busy shoe store with customers browsing and staff assisting.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 4---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near shoe rack",
+      "clothing": "white cap, gray shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "light blue top, black pants",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near shoe rack",
+      "clothing": "checkered shirt",
+      "action": "bending down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white shirt, tan cap",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near door",
+      "clothing": "white shirt, red cap",
+      "action": "carrying bags",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "red cap, pink shirt",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "checkered shirt, red cap",
+      "action": "standing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe racks", "counter with items", "plastic bags"],
+  "scene_summary": "A group of people are browsing and standing near counters in a shoe store. Some are wearing caps and carrying bags.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 5---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "center-left",
+      "clothing": "white and plaid",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center-left",
+      "clothing": "gray",
+      "action": "standing near counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "bottom-left",
+      "clothing": "light blue",
+      "action": "standing near counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "bottom-center",
+      "clothing": "white",
+      "action": "standing near counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center-right",
+      "clothing": "white and red hat",
+      "action": "carrying green bag",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "center-right",
+      "clothing": "striped and red hat",
+      "action": "interacting with person",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "top-right",
+      "clothing": "striped and white hat",
+      "action": "standing near shelf",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["green bag", "shoe boxes", "counter with items"],
+  "scene_summary": "A busy shoe store with multiple customers browsing and interacting with each other and staff.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 6---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the shoe rack",
+      "clothing": "white cap, checkered shirt",
+      "action": "browsing shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "gray t-shirt",
+      "action": "being served",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "light blue top",
+      "action": "being served",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "white t-shirt, tan cap",
+      "action": "looking at shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "pink top, red cap",
+      "action": "holding a green bag, interacting with staff",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "white t-shirt, red cap",
+      "action": "serving customer",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the right edge",
+      "clothing": "checkered shirt, tan cap",
+      "action": "standing near counter",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe racks", "counter with various items", "green bag"],
+  "scene_summary": "A busy shoe store with customers browsing and being served.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 7---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "center-left",
+      "clothing": "blue checkered shirt",
+      "action": "walking",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center",
+      "clothing": "gray t-shirt",
+      "action": "walking towards display",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "bottom-center",
+      "clothing": "white t-shirt, tan cap",
+      "action": "standing still",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "top-left",
+      "clothing": "white t-shirt, black cap",
+      "action": "standing near shelf",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "right-center",
+      "clothing": "white t-shirt, red cap",
+      "action": "standing near counter",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "bottom-left",
+      "clothing": "light blue t-shirt",
+      "action": "kneeling",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right-center",
+      "clothing": "red cap, striped shirt",
+      "action": "interacting with others",
+      "behavior_label": "possibly suspicious"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "counter with items", "green object being held"],
+  "scene_summary": "A group of people are gathered in a shoe store, browsing and interacting with each other.",
+  "risk_assessment": "medium"
+}
+```
+
+---Frame 8---
+```json
+{
+  "people_count": 8,
+  "persons": [
+    {
+      "position": "standing near shoe rack",
+      "clothing": "black shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near counter",
+      "clothing": "white cap, checkered shirt",
+      "action": "assisting customer",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "kneeling near counter",
+      "clothing": "light blue shirt",
+      "action": "being assisted",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near shoe display",
+      "clothing": "white shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "bending near shoe display",
+      "clothing": "dark gray shirt",
+      "action": "picking up shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near counter",
+      "clothing": "white cap, white shirt",
+      "action": "at counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near counter",
+      "clothing": "red cap, checkered shirt",
+      "action": "at counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near counter",
+      "clothing": "pink dress",
+      "action": "at counter with green tissue paper",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "counter with various items", "green tissue paper"],
+  "scene_summary": "A busy shoe store scene with customers and staff interacting at the counter and browsing shoe displays.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 9---
+```json
+{
+  "people_count": 8,
+  "persons": [
+    {
+      "position": "near shelves",
+      "clothing": "black and white checkered shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white t-shirt",
+      "action": "interacting with others",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "light blue top",
+      "action": "standing near others",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white t-shirt, tan cap",
+      "action": "holding green basket",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "pink shirt, red cap",
+      "action": "standing near others",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "blue checkered shirt",
+      "action": "standing near others",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near shelves",
+      "clothing": "black shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "dark grey shirt",
+      "action": "standing near others",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["green basket", "black shoe boxes on shelves"],
+  "scene_summary": "A group of people are gathered in a shoe store, browsing and interacting with each other near the counter and shelves.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 10---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "left, bending",
+      "clothing": "blue and white checkered shirt",
+      "action": "bending and reaching",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "center, standing",
+      "clothing": "white shirt",
+      "action": "standing and facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "bottom center, facing away",
+      "clothing": "gray shirt",
+      "action": "standing and facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right, standing near shelf",
+      "clothing": "blue and white checkered shirt, white cap",
+      "action": "standing and looking down",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "center, bending",
+      "clothing": "white shirt, red cap",
+      "action": "bending and reaching",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "center, standing",
+      "clothing": "white shirt, tan cap",
+      "action": "standing and facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left, standing near counter",
+      "clothing": "dark shirt, light hair",
+      "action": "standing and reaching",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shelves with shoe boxes", "counter with various items", "large bin with items"],
+  "scene_summary": "A group of people are gathered in a shoe store, with some bending or reaching for items. The atmosphere appears busy.",
+  "risk_assessment": "medium"
+}
+```
+
+---Frame 11---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the shoe rack",
+      "clothing": "blue and white checkered shirt",
+      "action": "bending down",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "white shirt",
+      "action": "standing and facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe rack",
+      "clothing": "black dress",
+      "action": "bending down",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the wall",
+      "clothing": "white shirt and red cap",
+      "action": "standing and facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "pink shirt and red cap",
+      "action": "standing and facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "white shirt and tan cap",
+      "action": "standing and facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the exit",
+      "clothing": "blue and white checkered shirt and khaki pants",
+      "action": "walking away",
+      "behavior_label": "possibly suspicious"
+    }
+  ],
+  "notable_objects": ["shoe racks", "counter with various items", "boxes on the floor"],
+  "scene_summary": "A group of people are gathered in a shoe store, with some bending down near the shoe racks and others standing near the counter.",
+  "risk_assessment": "medium"
+}
+```
+
+---Frame 12---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "left side, near shelf",
+      "clothing": "blue and white checkered shirt, white cap",
+      "action": "browsing through shelves",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, near shoe display",
+      "clothing": "white shirt, dark pants",
+      "action": "bending down, possibly picking up shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near another shelf",
+      "clothing": "white shirt, red cap",
+      "action": "standing near shelf, looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near exit",
+      "clothing": "blue and white striped shirt, white cap",
+      "action": "walking towards exit",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "center, near counter",
+      "clothing": "white shirt, red cap",
+      "action": "standing near counter, looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "bottom left, near counter",
+      "clothing": "white shirt, dark hair",
+      "action": "bending down, possibly interacting with items on floor",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "left side, near counter",
+      "clothing": "blue and white checkered shirt, dark hair",
+      "action": "standing near counter, looking down",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "shoes on display", "bags on counter"],
+  "scene_summary": "A busy shoe store with multiple customers browsing and staff assisting. The atmosphere appears lively with people interacting with products.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 13---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "standing near the shelf",
+      "clothing": "black shirt",
+      "action": "looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "striped shirt, white cap",
+      "action": "moving quickly",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "white shirt, tan cap",
+      "action": "bending over",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "pink shirt, red cap",
+      "action": "standing and looking down",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "striped shirt, tan cap",
+      "action": "standing and looking down",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the back",
+      "clothing": "white shirt, red cap",
+      "action": "standing and facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back",
+      "clothing": "black shirt",
+      "action": "standing and facing away",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["multiple shoe boxes on shelves", "bags on the counter"],
+  "scene_summary": "A group of people are gathered around a counter in a shoe store, with some bending over or moving quickly.",
+  "risk_assessment": "medium"
+}
+```
+
+---Frame 14---
+```json
+{
+  "people_count": 6,
+  "persons": [
+    {
+      "position": "standing near the shelf",
+      "clothing": "black shirt and pants",
+      "action": "looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "bending near the shelf",
+      "clothing": "checkered shirt and jeans",
+      "action": "bending and looking at items",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near the shelf",
+      "clothing": "white shirt and blue patterned scarf",
+      "action": "looking at items",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near the center",
+      "clothing": "white shirt and tan hat",
+      "action": "looking at items",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near the center",
+      "clothing": "red hat and pink shirt",
+      "action": "looking at items",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near the door",
+      "clothing": "white shirt and red hat",
+      "action": "looking down",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shelves with black boxes", "tables with various items"],
+  "scene_summary": "A group of people are browsing in a store with shelves of shoe boxes and tables with various items.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 15---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "standing near the wall",
+      "clothing": "black shirt and pants",
+      "action": "looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "blue and white checkered shirt, white cap",
+      "action": "reaching into the shoe display",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "white shirt",
+      "action": "bending down",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "blue and white patterned clothing",
+      "action": "standing near the display",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "white shirt, tan cap",
+      "action": "bending down",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "red cap, pink clothing",
+      "action": "standing near the counter",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the door",
+      "clothing": "white shirt, red cap",
+      "action": "standing near the door",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe display", "counter with various items"],
+  "scene_summary": "A group of people are gathered around a shoe display in a store. One person is standing near the wall, while others are near the display or counter.",
+  "risk_assessment": "medium"
+}
+```
+
+---Frame 16---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "standing near the wall",
+      "clothing": "black shirt and pants",
+      "action": "looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "blue and white checkered shirt, white cap",
+      "action": "browsing shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "white shirt, blue bag",
+      "action": "browsing shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "white shirt, tan cap",
+      "action": "browsing shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "striped shirt, tan cap",
+      "action": "browsing shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "red cap, blue and white shirt",
+      "action": "browsing shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "black shirt and pants",
+      "action": "standing still",
+      "behavior_label": "possibly suspicious"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "shoes on display", "bags and accessories"],
+  "scene_summary": "A group of people browsing shoes in a shoe store. One person is standing near the counter, not actively engaging with others.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 17---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "standing near the entrance",
+      "clothing": "black shirt and pants",
+      "action": "looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "white shirt",
+      "action": "interacting with a bag",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "checkered shirt",
+      "action": "standing near the person in white shirt",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "pink shirt, red cap",
+      "action": "facing away from the camera",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "white shirt, tan cap",
+      "action": "facing away from the camera",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back",
+      "clothing": "white shirt, red cap",
+      "action": "standing near a shelf",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back",
+      "clothing": "checkered shirt, tan hat",
+      "action": "standing near the person in white shirt and red cap",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["multiple bags on the counter", "shelves with boxes"],
+  "scene_summary": "A group of people are gathered near the counter, interacting with bags and items. One person is standing near the entrance.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 18---
+```json
+{
+  "people_count": 6,
+  "persons": [
+    {
+      "position": "standing near the entrance",
+      "clothing": "black shirt and pants",
+      "action": "looking around",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "blue and white checkered shirt, white cap",
+      "action": "browsing shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the counter",
+      "clothing": "white shirt",
+      "action": "handling items on the counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "white shirt, tan cap",
+      "action": "standing and looking at the counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "pink shirt, red cap",
+      "action": "browsing shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "white shirt, red cap",
+      "action": "browsing shoes",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "items on the counter", "bags on the counter"],
+  "scene_summary": "Multiple customers browsing shoes and interacting with items on the counter.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 19---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "standing near the shoe rack",
+      "clothing": "black shirt",
+      "action": "looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "bending near the shoe rack",
+      "clothing": "white cap, checkered shirt",
+      "action": "picking up shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near the counter",
+      "clothing": "white shirt",
+      "action": "looking at items on the counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe rack",
+      "clothing": "red cap, white shirt",
+      "action": "looking at shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe rack",
+      "clothing": "tan cap, white shirt",
+      "action": "looking at shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe rack",
+      "clothing": "red cap, pink shirt",
+      "action": "looking at shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "partially visible, dark hair",
+      "action": "unclear",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe racks", "counter with various items", "blue packaged items"],
+  "scene_summary": "Multiple customers browsing shoe racks and counter items in a retail store.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 20---
+```json
+{
+  "people_count": 6,
+  "persons": [
+    {
+      "position": "standing near the shoe rack",
+      "clothing": "black t-shirt",
+      "action": "looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "gathered around a table",
+      "clothing": "white t-shirt, blue jeans, white cap",
+      "action": "interacting with others",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "gathered around a table",
+      "clothing": "blue and white checkered shirt",
+      "action": "handling items on the table",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "gathered around a table",
+      "clothing": "blue and white checkered shirt, tan hat",
+      "action": "bending over the table",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "gathered around a table",
+      "clothing": "white t-shirt, tan cap",
+      "action": "facing away from the camera",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the door",
+      "clothing": "white t-shirt, red cap, blue jeans",
+      "action": "standing and looking down",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "items on the table including blue patterned fabric"],
+  "scene_summary": "A group of people are gathered around a table in a shoe store, interacting with each other and handling items. One person is standing near the shoe rack, and another is near the door.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 21---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "standing near the left wall",
+      "clothing": "black shirt",
+      "action": "looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "white and blue checkered shirt, white cap",
+      "action": "bending down",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "white shirt",
+      "action": "covering face with hand",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the center of the room",
+      "clothing": "red cap, pink shirt",
+      "action": "standing and facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center of the room",
+      "clothing": "tan cap, white shirt",
+      "action": "standing and facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the right wall",
+      "clothing": "red cap, white shirt",
+      "action": "standing and facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "partially visible at the bottom left",
+      "clothing": "unidentifiable",
+      "action": "unidentifiable",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "shoes on display", "bags on the floor"],
+  "scene_summary": "A group of people are gathered in a shoe store, with some standing near the shoe display and others near the walls. One person is bending down near the shoe display.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 22---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near shoe rack",
+      "clothing": "black shirt",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "blue and white checkered shirt, white cap",
+      "action": "bending down",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white shirt",
+      "action": "talking on phone",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near large shoe display",
+      "clothing": "pink shirt, red cap",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near large shoe display",
+      "clothing": "white shirt, grey cap",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "black jacket, white cap",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "lower left",
+      "clothing": "partially visible",
+      "action": "sitting",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe racks", "counter with various items", "large shoe display with plastic wrapping"],
+  "scene_summary": "A group of people are gathered in a shoe store, with some standing near a large shoe display and others near the counter. One person is on a phone call.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 23---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "standing near the left wall",
+      "clothing": "black t-shirt",
+      "action": "looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center table",
+      "clothing": "white t-shirt, blue jeans",
+      "action": "standing and looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center table",
+      "clothing": "plaid shirt, white cap",
+      "action": "bending over the table",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the center table",
+      "clothing": "white t-shirt, tan cap",
+      "action": "bending over the table",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the center table",
+      "clothing": "pink shirt, red cap",
+      "action": "bending over the table",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the center table",
+      "clothing": "gray plaid shirt, tan cap",
+      "action": "bending over the table",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "bottom left corner",
+      "clothing": "partially visible",
+      "action": "partially visible",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "items on the center table"],
+  "scene_summary": "A group of people gathered around a table in a shoe store, with several individuals bending over the table examining items.",
+  "risk_assessment": "medium"
+}
+```
+
+---Frame 24---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near shelves",
+      "clothing": "black shirt",
+      "action": "standing still",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center",
+      "clothing": "blue checkered shirt",
+      "action": "moving towards counter",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white shirt, red cap",
+      "action": "reaching for something",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white shirt",
+      "action": "standing still",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "blue checkered shirt, tan hat",
+      "action": "interacting with others",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near door",
+      "clothing": "white shirt",
+      "action": "standing still",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "pink shirt, red cap",
+      "action": "handling green bag",
+      "behavior_label": "possibly suspicious"
+    }
+  ],
+  "notable_objects": ["green bag", "shoe boxes on shelves", "counter with various items"],
+  "scene_summary": "A group of people are gathered in a shoe store, with some interacting near the counter and others standing near the shelves.",
+  "risk_assessment": "medium"
+}
+```
+
+---Frame 25---
+```json
+{
+  "people_count": 6,
+  "persons": [
+    {
+      "position": "near shelves",
+      "clothing": "white shirt, blue jeans, white cap",
+      "action": "bending down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "blue and white checkered shirt",
+      "action": "standing and interacting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white tank top, blue jeans, red cap",
+      "action": "standing and interacting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near exit",
+      "clothing": "white shirt, red cap",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near table",
+      "clothing": "white shirt, tan cap",
+      "action": "sitting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near table",
+      "clothing": "blue and white checkered shirt, tan cap",
+      "action": "sitting",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shelves with shoe boxes", "counter with various items", "table with items"],
+  "scene_summary": "Multiple individuals are present in the store, engaging in various activities such as browsing and interacting with each other. The atmosphere appears to be normal with no immediate signs of distress or suspicious activity.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 26---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near shoe rack",
+      "clothing": "white cap, blue checkered shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near center",
+      "clothing": "red cap, pink shirt",
+      "action": "walking towards shoe display",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near center",
+      "clothing": "white tank top",
+      "action": "standing near shoe display",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white shirt, tan cap",
+      "action": "sitting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "blue checkered shirt, tan cap",
+      "action": "sitting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near door",
+      "clothing": "red cap, white shirt",
+      "action": "standing near door",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "partially visible",
+      "clothing": "unknown",
+      "action": "unknown",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe racks", "display table with plastic bags", "counter with various items"],
+  "scene_summary": "A busy shoe store with multiple customers browsing and a few staff members present.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 27---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near shelves",
+      "clothing": "blue checkered shirt, white cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "pink shirt",
+      "action": "looking at items",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near counter",
+      "clothing": "white tank top",
+      "action": "standing with arms crossed",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near exit",
+      "clothing": "white shirt, red cap",
+      "action": "looking around",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near table",
+      "clothing": "blue checkered shirt, tan cap",
+      "action": "sitting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near table",
+      "clothing": "white shirt, tan cap",
+      "action": "sitting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "partially visible",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoes on shelves", "items on counter"],
+  "scene_summary": "Multiple customers browsing in a shoe store.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 28---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near shoe shelf",
+      "clothing": "blue checkered shirt, red cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near shoe shelf",
+      "clothing": "pink shirt, white cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "standing near counter",
+      "clothing": "white tank top",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near exit/entrance",
+      "clothing": "white shirt, red cap",
+      "action": "walking",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "sitting at table",
+      "clothing": "blue patterned shirt, tan cap",
+      "action": "sitting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "sitting at table",
+      "clothing": "blue checkered shirt, tan hat",
+      "action": "sitting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "lower left",
+      "clothing": "partially visible, possibly orange top",
+      "action": "sitting/standing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "items on counter"],
+  "scene_summary": "Multiple individuals browsing and interacting in a shoe store.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 29---
+```json
+{
+  "people_count": 6,
+  "persons": [
+    {
+      "position": "near shoe shelves",
+      "clothing": "pink shirt, red cap",
+      "action": "looking at shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white shirt",
+      "action": "standing still",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white shirt, tan cap",
+      "action": "bending over",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near shoe display",
+      "clothing": "white shirt",
+      "action": "interacting with customer",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near shoe display",
+      "clothing": "checkered shirt, yellow pants",
+      "action": "browsing shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "blue baggy pants, checkered top",
+      "action": "bending over",
+      "behavior_label": "possibly suspicious"
+    }
+  ],
+  "notable_objects": ["shoe boxes", "counter with items", "bags"],
+  "scene_summary": "A busy shoe store with customers and staff browsing and interacting.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 30---
+```json
+{
+  "people_count": 5,
+  "persons": [
+    {
+      "position": "near shelves",
+      "clothing": "pink shirt, red cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white t-shirt",
+      "action": "standing with arms crossed",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near display table",
+      "clothing": "white t-shirt, tan cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near exit",
+      "clothing": "white t-shirt, red cap",
+      "action": "standing",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near counter",
+      "clothing": "blue and white patterned shirt, yellow pants, white cap",
+      "action": "interacting with items on counter",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shelves with black boxes", "display table with various items", "counter with jars and bags"],
+  "scene_summary": "A retail store with multiple customers browsing and interacting with products.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 31---
+```json
+{
+  "people_count": 5,
+  "persons": [
+    {
+      "position": "near shoe shelf",
+      "clothing": "pink shirt, red cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white shirt",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near shoe display",
+      "clothing": "white shirt, tan cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near door",
+      "clothing": "white shirt, red cap",
+      "action": "standing",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near table",
+      "clothing": "blue shirt",
+      "action": "sitting",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe boxes", "bags"],
+  "scene_summary": "Multiple individuals browsing in a shoe store.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 32---
+```json
+{
+  "people_count": 5,
+  "persons": [
+    {
+      "position": "left side, near shelves",
+      "clothing": "pink shirt, red cap",
+      "action": "browsing shelves",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, near counter",
+      "clothing": "white tank top",
+      "action": "standing, facing away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "bottom center, near counter",
+      "clothing": "white shirt, tan cap",
+      "action": "bending down, possibly looking at items",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near counter",
+      "clothing": "white shirt, red cap",
+      "action": "standing, holding bag",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "bottom left, near counter",
+      "clothing": "dark shorts, white tank top",
+      "action": "sitting, facing away",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shelves with shoe boxes", "bags on the floor", "counter with various items"],
+  "scene_summary": "A shoe store with multiple customers browsing and staff assisting. One person is holding a bag and standing near the counter, which could be a point of interest.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 33---
+```json
+{
+  "people_count": 5,
+  "persons": [
+    {
+      "position": "near the counter",
+      "clothing": "white t-shirt",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shelves",
+      "clothing": "pink shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the open drawer",
+      "clothing": "white shirt, red cap",
+      "action": "reaching into drawer",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the table",
+      "clothing": "white shirt, tan cap",
+      "action": "sitting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "partially visible",
+      "clothing": "dark top",
+      "action": "sitting",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["open drawer", "multiple boxes on shelves", "bags on the floor"],
+  "scene_summary": "A retail store with multiple customers and/or employees present. One person is near an open drawer.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 34---
+```json
+{
+  "people_count": 4,
+  "persons": [
+    {
+      "position": "near shoe display",
+      "clothing": "pink shirt, jeans, red headscarf",
+      "action": "looking at shoes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white tank top, jeans",
+      "action": "standing with arms crossed",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near exit/entry",
+      "clothing": "white shirt, jeans, red cap",
+      "action": "entering or preparing to leave",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white shirt, tan cap",
+      "action": "looking down, possibly at items on counter",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "bags on the floor near the person in white shirt and red cap"],
+  "scene_summary": "A shoe store with several customers browsing and a few staff members or customers near the counter.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 35---
+```json
+{
+  "people_count": 4,
+  "persons": [
+    {
+      "position": "near the shoe display",
+      "clothing": "pink shirt, red cap",
+      "action": "standing and looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "white tank top",
+      "action": "sitting and possibly interacting with items on the counter",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the back door",
+      "clothing": "white shirt, red cap",
+      "action": "standing and looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near a large blue bag",
+      "clothing": "white shirt, tan cap",
+      "action": "sitting and facing away from the camera",
+      "behavior_label": "possibly suspicious"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "blue bag near the person with a tan cap"],
+  "scene_summary": "Four individuals are in a shoe store. Two are standing near displays, and two are sitting near counters.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 36---
+```json
+{
+  "people_count": 4,
+  "persons": [
+    {
+      "position": "near the shoe rack",
+      "clothing": "pink shirt, red cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "kneeling near a counter",
+      "clothing": "white tank top",
+      "action": "possibly interacting with items on the counter",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the center display",
+      "clothing": "white shirt, tan cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back wall",
+      "clothing": "white shirt, red cap",
+      "action": "standing near a shelf",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "bags on the floor"],
+  "scene_summary": "A shoe store with customers browsing and staff present.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 37---
+```json
+{
+  "people_count": 5,
+  "persons": [
+    {
+      "position": "near shoe rack",
+      "clothing": "pink shirt, jeans, red cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white tank top",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near shoe display",
+      "clothing": "white shirt, jeans, red cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white shirt, tan cap",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "dark shirt",
+      "action": "sitting",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": [
+    "shoe boxes on shelves",
+    "bags on the floor",
+    "counter with various items"
+  ],
+  "scene_summary": "A shoe store with multiple customers browsing and standing near counters and shelves.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 38---
+```json
+{
+  "people_count": 5,
+  "persons": [
+    {
+      "position": "near the shoe rack",
+      "clothing": "pink shirt, jeans",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "white tank top, jeans",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "braids, dark top",
+      "action": "browsing items on counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the exit",
+      "clothing": "white shirt, red cap",
+      "action": "standing with a bag",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "lower right",
+      "clothing": "white shirt, tan cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["multiple shoe boxes on shelves", "bags near the exit"],
+  "scene_summary": "A shoe store with several customers browsing. One person is near the exit with a bag.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 39---
+```json
+{
+  "people_count": 5,
+  "persons": [
+    {
+      "position": "near the shoe rack",
+      "clothing": "pink shirt, blue jeans, red cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "white tank top, blue jeans",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center display",
+      "clothing": "white t-shirt, tan cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the right wall",
+      "clothing": "white t-shirt, blue jeans",
+      "action": "walking",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "dark dreadlocks, partially visible",
+      "action": "sitting",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe racks", "blue bag near the center display"],
+  "scene_summary": "A shoe store with multiple customers browsing and a staff member possibly restocking or assisting.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 40---
+```json
+{
+  "people_count": 5,
+  "persons": [
+    {
+      "position": "near shelves",
+      "clothing": "pink shirt, red cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white tank top",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near display table",
+      "clothing": "white shirt, tan cap",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "blue checkered shirt, tan hat",
+      "action": "interacting with items",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near door",
+      "clothing": "white shirt, red cap",
+      "action": "entering",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoes on shelves", "items on counter", "bags on table"],
+  "scene_summary": "A shoe store with multiple customers browsing and interacting with products.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 41---
+```json
+{
+  "people_count": 6,
+  "persons": [
+    {
+      "position": "standing near the shelf",
+      "clothing": "pink shirt, red cap",
+      "action": "looking around",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "white tank top",
+      "action": "standing with arms crossed",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the shoe display",
+      "clothing": "blue and white striped shirt, hat",
+      "action": "reaching for shoes",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the person in striped shirt",
+      "clothing": "white shirt, tan cap",
+      "action": "standing and observing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the door",
+      "clothing": "white shirt, red cap",
+      "action": "looking down",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "sitting near the counter",
+      "clothing": "dark shirt",
+      "action": "partially visible, looking down",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["shoe boxes on shelves", "bags on the floor"],
+  "scene_summary": "A shoe store with several customers and one staff member visible. Customers are browsing and interacting with the products.",
+  "risk_assessment": "low"
+}
+```
+

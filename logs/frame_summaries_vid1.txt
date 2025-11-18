@@ -1,0 +1,2160 @@
+===FRAME SUMMARIES ===
+
+---Frame 0---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the entrance",
+      "clothing": "gray jacket, jeans",
+      "action": "walking towards the back",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "by the clothing rack",
+      "clothing": "blue shirt",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the hat display",
+      "clothing": "blue shirt, patterned pants",
+      "action": "looking at hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "by the counter",
+      "clothing": "black shirt",
+      "action": "interacting with another person",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the wall display",
+      "clothing": "white shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the entrance, partially obscured",
+      "clothing": "unidentifiable",
+      "action": "unidentifiable",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the back, near shelves",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter"],
+  "scene_summary": "A busy clothing store with customers browsing and interacting with each other and the merchandise.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 1---
+```json
+{
+  "people_count": 9,
+  "persons": [
+    {
+      "position": "near the camera, browsing through clothes",
+      "clothing": "dark-colored top",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the hat display, examining hats",
+      "clothing": "blue shirt, plaid pants",
+      "action": "examining hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back of the store, walking towards the front",
+      "clothing": "dark pants, light top",
+      "action": "walking",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the cash counter, possibly interacting with staff",
+      "clothing": "dark clothing",
+      "action": "interacting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "in the middle of the store, browsing clothes racks",
+      "clothing": "blue top",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the back, near the entrance",
+      "clothing": "light-colored clothing",
+      "action": "entering",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing racks, browsing",
+      "clothing": "dark top, light pants",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the hat section, facing away from the camera",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "behind the counter, likely staff",
+      "clothing": "light top",
+      "action": "attending to customer",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "cash counter"],
+  "scene_summary": "The store is moderately busy with customers browsing through various clothing sections. Staff are present and attending to customers.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 2---
+```json
+{
+  "people_count": 9,
+  "persons": [
+    {
+      "position": "near the back wall",
+      "clothing": "dark",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center",
+      "clothing": "blue",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the exit",
+      "clothing": "light",
+      "action": "walking towards exit",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the hats display",
+      "clothing": "blue",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "dark",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "light",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back left",
+      "clothing": "dark",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center left",
+      "clothing": "dark",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the front right",
+      "clothing": "blue",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hats display", "counter"],
+  "scene_summary": "A busy clothing store with multiple customers browsing various sections.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 3---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the exit, browsing",
+      "clothing": "dark jacket",
+      "action": "browsing clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the hat display, examining hats",
+      "clothing": "blue shirt",
+      "action": "picking up hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the jeans display, interacting with another person",
+      "clothing": "black shirt",
+      "action": "talking to another customer",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the counter, possibly a staff member",
+      "clothing": "dark attire",
+      "action": "standing behind counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the entrance, browsing",
+      "clothing": "light-colored clothing",
+      "action": "browsing clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing racks, bending down",
+      "clothing": "blue shirt",
+      "action": "bending down, possibly picking up an item",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the back of the store, browsing",
+      "clothing": "dark clothing",
+      "action": "browsing clothes",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter"],
+  "scene_summary": "The store is moderately busy with customers browsing various sections. Staff are present at the counter.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 4---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near clothing rack, center-right",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near hat display, right",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near clothing rack, center",
+      "clothing": "black shirt",
+      "action": "interacting with another person",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near wall, left",
+      "clothing": "white shirt",
+      "action": "standing near display",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter, left-center",
+      "clothing": "not visible",
+      "action": "not visible",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near window",
+      "clothing": "not visible",
+      "action": "walking",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near shelves",
+      "clothing": "not visible",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter"],
+  "scene_summary": "A busy clothing store with multiple customers browsing and interacting with merchandise.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 5---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the entrance",
+      "clothing": "various",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the racks on the right",
+      "clothing": "blue shirt",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the racks on the right",
+      "clothing": "dark shirt",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "blue shirt",
+      "action": "browsing through clothes on the rack",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "at the far end near the entrance",
+      "clothing": "various",
+      "action": "entering or exiting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the hat display",
+      "clothing": "blue shirt, black pants",
+      "action": "bending down, possibly picking up or hiding something",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the middle racks",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter"],
+  "scene_summary": "A busy clothing store with several customers browsing through racks of clothes. Some individuals are near the entrance, while others are engaged with merchandise.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 6---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the camera, browsing through clothes",
+      "clothing": "not clearly visible",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, bending down near a table",
+      "clothing": "blue shirt",
+      "action": "bending down, possibly picking something up",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the center, standing by a clothing rack",
+      "clothing": "dark shirt",
+      "action": "standing and looking around",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "far background, near the entrance",
+      "clothing": "various colors",
+      "action": "walking or standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near the man in blue shirt",
+      "clothing": "not clearly visible",
+      "action": "standing near the table",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left side, near the wall",
+      "clothing": "various colors",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center counter",
+      "clothing": "not clearly visible",
+      "action": "standing near the counter",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "tables with hats", "counter with cash register"],
+  "scene_summary": "A busy clothing store with several customers browsing through racks of clothes and a few staff members visible. One person is bending down near a table, which could be a point of interest.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 7---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "left side, browsing",
+      "clothing": "various, not distinct",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, near counter",
+      "clothing": "dark",
+      "action": "standing near counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near hat display",
+      "clothing": "blue shirt",
+      "action": "bending to examine or pick up items",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "right side, near clothing rack",
+      "clothing": "black shirt",
+      "action": "standing and examining clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near exit",
+      "clothing": "blue shirt",
+      "action": "walking towards exit",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near shelves",
+      "clothing": "red shirt",
+      "action": "browsing through shelves",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near entrance",
+      "clothing": "dark",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter with items on it"],
+  "scene_summary": "A busy clothing store with several customers browsing through racks and shelves. One person is bending down near a hat display, which could be a point of interest.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 8---
+```json
+{
+  "people_count": 9,
+  "persons": [
+    {
+      "position": "left side, browsing",
+      "clothing": "dark jacket",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, near clothing rack",
+      "clothing": "blue shirt",
+      "action": "looking at clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near hat display",
+      "clothing": "blue shirt, dark pants",
+      "action": "bending down, possibly picking up or hiding something",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "far end, near counter",
+      "clothing": "dark clothing",
+      "action": "standing near counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near exit, background",
+      "clothing": "light colored clothing",
+      "action": "walking towards exit",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near shelves, background",
+      "clothing": "red shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near clothing rack, center",
+      "clothing": "dark shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter"],
+  "scene_summary": "Busy clothing store with customers browsing through various clothing racks and displays. One individual near the hat display is bending down, which could indicate suspicious behavior.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 9---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "left side examining clothing rack",
+      "clothing": "dark hair, white shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near exit, back to camera",
+      "clothing": "blue top",
+      "action": "walking away",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, bending over table",
+      "clothing": "blue shirt, dark pants",
+      "action": "examining hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near window",
+      "clothing": "dark jacket",
+      "action": "standing still",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "background, near center",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left side, near clothing rack",
+      "clothing": "dark shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, standing near rack",
+      "clothing": "red/yellow shirt",
+      "action": "standing still",
+      "behavior_label": "possibly suspicious"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display table", "bags on counter"],
+  "scene_summary": "Busy clothing store with customers browsing various sections.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 10---
+```json
+{
+  "people_count": 9,
+  "persons": [
+    {
+      "position": "left side, browsing",
+      "clothing": "various, mostly dark and bright colors",
+      "action": "browsing through clothing racks",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, near counter",
+      "clothing": "red top",
+      "action": "standing near counter, possibly waiting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near hat display",
+      "clothing": "blue shirt",
+      "action": "bending down, possibly picking up or hiding something",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near exit, background",
+      "clothing": "dark clothing",
+      "action": "walking towards exit",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, browsing",
+      "clothing": "black shirt, jeans",
+      "action": "browsing through clothing racks",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left side, near wall",
+      "clothing": "white shirt",
+      "action": "standing near wall, possibly looking at items",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near entrance",
+      "clothing": "blue shirt",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center aisle",
+      "clothing": "blue shirt",
+      "action": "walking down the aisle",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near clothing rack",
+      "clothing": "yellow shirt",
+      "action": "browsing through clothing rack",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter"],
+  "scene_summary": "The store is moderately busy with customers browsing through various clothing sections. One person is bending down near a hat display, which could be a cause for attention.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 11---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the hats table",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "black shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the back near the wall",
+      "clothing": "blue jacket",
+      "action": "standing still",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the entrance",
+      "clothing": "dark clothing",
+      "action": "walking in",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "light colored shirt",
+      "action": "serving customer",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "yellow shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the hats table",
+      "clothing": "black shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["hats table", "clothing racks", "counter"],
+  "scene_summary": "Busy clothing store with customers browsing and staff serving.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 12---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "bottom left",
+      "clothing": "dark",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center right",
+      "clothing": "blue shirt",
+      "action": "bending, interacting with items",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "center right",
+      "clothing": "dark shirt",
+      "action": "bending, interacting with items",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "top center",
+      "clothing": "blue shirt",
+      "action": "walking",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "top left",
+      "clothing": "white shirt",
+      "action": "standing near counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background",
+      "clothing": "dark",
+      "action": "walking towards exit",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background",
+      "clothing": "blue shirt",
+      "action": "standing near racks",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter with items"],
+  "scene_summary": "Busy clothing store with customers browsing and interacting with merchandise.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 13---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the hats display",
+      "clothing": "blue shirt",
+      "action": "browsing hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "dark shirt",
+      "action": "browsing clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the exit",
+      "clothing": "dark jacket",
+      "action": "walking towards the exit",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "white shirt",
+      "action": "standing near the counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "blue hat",
+      "action": "browsing clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the entrance",
+      "clothing": "dark pants",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "blue shirt",
+      "action": "browsing clothes",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["hats display", "clothing racks", "counter"],
+  "scene_summary": "A busy clothing store with multiple customers browsing and a few staff members visible.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 14---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the hats display",
+      "clothing": "blue shirt",
+      "action": "browsing hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "black shirt",
+      "action": "browsing clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the exit",
+      "clothing": "dark clothing",
+      "action": "walking towards the exit",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "blue shirt",
+      "action": "standing near the counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "blue shirt, cap",
+      "action": "assisting another customer",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back wall",
+      "clothing": "dark clothing",
+      "action": "browsing clothing on the wall",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the left wall",
+      "clothing": "white shirt",
+      "action": "browsing hats",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["hats display", "clothing racks", "counter"],
+  "scene_summary": "A busy clothing store with multiple customers browsing various sections.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 15---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "left side, browsing",
+      "clothing": "dark jacket, light pants",
+      "action": "browsing through hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, near counter",
+      "clothing": "white shirt",
+      "action": "standing near counter, possibly waiting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near clothing rack",
+      "clothing": "blue shirt",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "far right, bending down",
+      "clothing": "blue shirt, dark pants",
+      "action": "bending down, possibly picking up or hiding something",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "background, near entrance",
+      "clothing": "dark clothing",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left side, near wall",
+      "clothing": "light colored shirt",
+      "action": "standing and looking around",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the hat display, right side",
+      "clothing": "blue shirt",
+      "action": "examining hats",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["hats on display", "clothing racks", "counter with bags"],
+  "scene_summary": "A busy clothing store with customers browsing various sections. One person is bending down near a clothing rack, which could be a cause for attention.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 16---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "left side, browsing",
+      "clothing": "dark top, light bottom",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, near clothing rack",
+      "clothing": "dark clothing",
+      "action": "looking at clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near hat display",
+      "clothing": "blue shirt",
+      "action": "bending down, possibly picking up or examining an item",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "right side, near hat display",
+      "clothing": "blue shirt, hat",
+      "action": "bending down, possibly picking up or examining an item",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "background, near exit",
+      "clothing": "not clearly visible",
+      "action": "walking towards the exit",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left side, near counter",
+      "clothing": "light top",
+      "action": "standing near the counter, possibly waiting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near shelves",
+      "clothing": "dark clothing",
+      "action": "browsing through items on shelves",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter"],
+  "scene_summary": "A busy clothing store with several customers browsing through various clothing sections. Two individuals near the hat display are bending down, which could indicate suspicious behavior.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 17---
+```json
+{
+  "people_count": 4,
+  "persons": [
+    {
+      "position": "left side near the wall",
+      "clothing": "dark shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center near clothing rack",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side near hat display",
+      "clothing": "blue shirt",
+      "action": "bending down",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "right side near clothing rack",
+      "clothing": "blue shirt, red cap",
+      "action": "bending down",
+      "behavior_label": "possibly suspicious"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "bags on the counter"],
+  "scene_summary": "A clothing store with several customers browsing. Two individuals are bending down near clothing racks, which could indicate suspicious behavior.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 18---
+```json
+{
+  "people_count": 4,
+  "persons": [
+    {
+      "position": "near clothing rack",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near hat display",
+      "clothing": "blue shirt, dark pants",
+      "action": "bending down",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near entrance",
+      "clothing": "dark shirt, light pants",
+      "action": "walking in",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "dark shirt",
+      "action": "standing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter"],
+  "scene_summary": "A busy clothing store with customers browsing and staff present.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 19---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the camera, browsing through clothes",
+      "clothing": "dark hair, white shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back wall, by the entrance",
+      "clothing": "red shirt, dark pants",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near the hats display",
+      "clothing": "blue shirt",
+      "action": "browsing hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near the hats display, next to the person in blue shirt",
+      "clothing": "blue shirt, jeans",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center, browsing through clothes rack",
+      "clothing": "dark clothing",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near the entrance",
+      "clothing": "dark clothing",
+      "action": "walking towards the back",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near the entrance",
+      "clothing": "red/maroon shirt",
+      "action": "entering or standing near the entrance",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "bags on the counter"],
+  "scene_summary": "A busy clothing store with several customers browsing through various clothing racks and displays. Staff are present and assisting customers.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 20---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "left side, browsing",
+      "clothing": "dark and light colors",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the exit, browsing",
+      "clothing": "dark jacket",
+      "action": "looking at clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near hat display",
+      "clothing": "blue shirt",
+      "action": "examining hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near clothing rack",
+      "clothing": "blue shirt",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near entrance",
+      "clothing": "dark clothing",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near shelves",
+      "clothing": "yellow shirt",
+      "action": "browsing through shelves",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, near clothing rack",
+      "clothing": "dark clothing",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "bags on shelves"],
+  "scene_summary": "A busy clothing store with customers browsing through various sections.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 21---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the entrance",
+      "clothing": "various",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the counter",
+      "clothing": "blue shirt",
+      "action": "assisting customer",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near clothing racks",
+      "clothing": "black shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near hat display",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back wall",
+      "clothing": "red shirt",
+      "action": "walking towards the exit",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the jeans display",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "black pants and dark top",
+      "action": "being assisted",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter"],
+  "scene_summary": "A busy clothing store with customers browsing and staff assisting.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 22---
+```json
+{
+  "people_count": 6,
+  "persons": [
+    {
+      "position": "near the hats display",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothes rack",
+      "clothing": "blue shirt, gray pants",
+      "action": "bending down, possibly picking up or examining items",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the back near the entrance",
+      "clothing": "dark coat",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "black shirt",
+      "action": "standing near the counter, possibly waiting or looking around",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the clothes rack",
+      "clothing": "blue shirt, dark pants",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the wall display",
+      "clothing": "not clearly visible",
+      "action": "not clearly visible",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["hats display", "clothes racks", "counter"],
+  "scene_summary": "A busy clothing store with customers browsing and staff present. The atmosphere appears normal with people shopping and moving around.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 23---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near clothing racks",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "black jacket, grey pants",
+      "action": "walking away from counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near exit",
+      "clothing": "dark clothing",
+      "action": "entering store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near hats display",
+      "clothing": "blue shirt, dark pants",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near clothing racks",
+      "clothing": "blue shirt, grey pants",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near wall displays",
+      "clothing": "various",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near counter",
+      "clothing": "white shirt",
+      "action": "standing near counter",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hats display", "counter"],
+  "scene_summary": "A busy clothing store with customers browsing various sections.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 24---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "center of the store",
+      "clothing": "black shirt, gray pants",
+      "action": "walking away from the camera",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side near hats",
+      "clothing": "blue shirt",
+      "action": "bending over, possibly arranging items",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side near hats",
+      "clothing": "blue shirt, dark pants",
+      "action": "standing near the hat display, possibly assisting or browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left side near wall",
+      "clothing": "various colors",
+      "action": "browsing through clothing racks",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background near entrance",
+      "clothing": "dark clothing",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background near counter",
+      "clothing": "dark clothing",
+      "action": "walking towards the counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left side near the camera",
+      "clothing": "not clearly visible",
+      "action": "not clearly visible",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter"],
+  "scene_summary": "A busy clothing store with customers browsing and staff assisting. The atmosphere appears normal with people engaged in typical shopping behavior.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 25---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "left side, browsing",
+      "clothing": "dark jacket, light pants",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, near counter",
+      "clothing": "blue shirt",
+      "action": "looking at items on counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near hat display",
+      "clothing": "blue shirt, dark pants",
+      "action": "examining hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near entrance",
+      "clothing": "dark jacket",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near racks",
+      "clothing": "blue top, gray pants",
+      "action": "browsing through clothes on rack",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the hat display",
+      "clothing": "blue shirt",
+      "action": "handling hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter, partially hidden",
+      "clothing": "unidentifiable",
+      "action": "unidentifiable",
+      "behavior_label": "possibly suspicious"
+    }
+  ],
+  "notable_objects": [
+    "clothing racks",
+    "hat display",
+    "counter with items",
+    "bags on the floor"
+  ],
+  "scene_summary": "A busy clothing store with customers browsing and staff assisting. The atmosphere is normal with people examining merchandise.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 26---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the hat display",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "blue shirt, dark pants",
+      "action": "bending down, possibly picking something up",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "at the back of the store",
+      "clothing": "dark clothing",
+      "action": "walking towards the front",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the entrance",
+      "clothing": "not clearly visible",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "plaid shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the hat display",
+      "clothing": "blue shirt, gray pants",
+      "action": "browsing hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back wall",
+      "clothing": "not clearly visible",
+      "action": "standing near a display",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "bags on the floor"],
+  "scene_summary": "A busy clothing store with multiple customers browsing various sections.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 27---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the entrance",
+      "clothing": "dark jacket",
+      "action": "walking",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the clothing rack",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the counter",
+      "clothing": "blue shirt, dark pants",
+      "action": "organizing items",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the hats display",
+      "clothing": "red shirt, dark pants",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the clothing rack",
+      "clothing": "black jacket",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back wall",
+      "clothing": "light colored shirt",
+      "action": "walking towards the back",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the left wall",
+      "clothing": "white shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hats display", "counter"],
+  "scene_summary": "A busy clothing store with customers browsing and staff organizing merchandise.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 28---
+```json
+{
+  "people_count": 4,
+  "persons": [
+    {
+      "position": "near the hat display",
+      "clothing": "blue shirt",
+      "action": "browsing through hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "blue shirt, gray cap",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the counter in the background",
+      "clothing": "dark attire",
+      "action": "possibly interacting with staff or browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the entrance",
+      "clothing": "not clearly visible",
+      "action": "walking towards the back",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "shopping baskets"],
+  "scene_summary": "The image shows a busy clothing store with customers browsing through various sections. Staff are present and assisting customers.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 29---
+```json
+{
+  "people_count": 5,
+  "persons": [
+    {
+      "position": "near the clothing racks on the left",
+      "clothing": "dark",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the counter on the right",
+      "clothing": "blue shirt",
+      "action": "assisting a customer",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter on the right",
+      "clothing": "blue shirt",
+      "action": "being assisted",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing racks in the middle",
+      "clothing": "not visible",
+      "action": "not visible",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the back of the store",
+      "clothing": "various",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "counter", "hats on display"],
+  "scene_summary": "A busy clothing store with customers browsing and a staff member assisting at the counter.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 30---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "left side near hats",
+      "clothing": "dark",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center near clothing rack",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side near hat display",
+      "clothing": "blue shirt",
+      "action": "examining hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background near entrance",
+      "clothing": "various",
+      "action": "moving towards or away from the camera",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center of the store",
+      "clothing": "black",
+      "action": "browsing clothing rack",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side near clothing rack",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background near shelves",
+      "clothing": "dark",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": [
+    "clothing racks",
+    "hat display",
+    "shelves with folded items",
+    "bags on the counter"
+  ],
+  "scene_summary": "The store is moderately busy with customers browsing various sections including clothing racks and hat displays. Staff are present and attentive.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 31---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the hat display",
+      "clothing": "blue t-shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "dark attire",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "at the back of the store",
+      "clothing": "blue jacket",
+      "action": "walking towards the front",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the entrance",
+      "clothing": "not visible",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the counter",
+      "clothing": "not visible",
+      "action": "standing near the counter",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "near the clothing rack",
+      "clothing": "black attire",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the wall",
+      "clothing": "white shirt",
+      "action": "standing still",
+      "behavior_label": "possibly suspicious"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "counter"],
+  "scene_summary": "The store is moderately busy with customers browsing clothing racks and displays. Some individuals are near the counter or standing still, potentially observing their surroundings.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 32---
+```json
+{
+  "people_count": 6,
+  "persons": [
+    {
+      "position": "left side, browsing",
+      "clothing": "dark jacket",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, near counter",
+      "clothing": "white shirt",
+      "action": "standing near counter, possibly waiting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, near exit",
+      "clothing": "blue shirt",
+      "action": "walking towards exit with bag",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "background, near window",
+      "clothing": "dark clothing",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left side, near hats",
+      "clothing": "not visible",
+      "action": "not visible",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, browsing",
+      "clothing": "blue shirt",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["racks of clothing", "hat display", "bags on shelves"],
+  "scene_summary": "Busy clothing store with customers browsing and one person near the exit with a bag.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 33---
+```json
+{
+  "people_count": 3,
+  "persons": [
+    {
+      "position": "near the back, browsing",
+      "clothing": "blue shirt",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back, browsing",
+      "clothing": "blue shirt",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left side, near the wall",
+      "clothing": "white shirt",
+      "action": "browsing through hats",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["racks of clothing", "hat display", "bags on the shelf"],
+  "scene_summary": "A clothing store with several customers browsing through racks of clothes and displays.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 34---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the back wall",
+      "clothing": "dark colors",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center rack",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the right rack",
+      "clothing": "blue vest",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the left wall",
+      "clothing": "white shirt",
+      "action": "standing near a display",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the checkout counter",
+      "clothing": "unidentifiable",
+      "action": "unidentifiable",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back entrance",
+      "clothing": "dark colors",
+      "action": "entering",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center of the store",
+      "clothing": "unidentifiable",
+      "action": "unidentifiable",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "checkout counter"],
+  "scene_summary": "A busy clothing store with customers browsing various sections.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 35---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "left side, browsing",
+      "clothing": "casual",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the exit, interacting with another person",
+      "clothing": "blue shirt",
+      "action": "interacting with another person",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right side, browsing",
+      "clothing": "blue shirt, cap",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near the entrance",
+      "clothing": "various",
+      "action": "entering or exiting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, browsing",
+      "clothing": "not clearly visible",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left, near the counter",
+      "clothing": "not clearly visible",
+      "action": "standing near the counter",
+      "behavior_label": "possibly suspicious"
+    },
+    {
+      "position": "right, near the table with hats",
+      "clothing": "not clearly visible",
+      "action": "standing near the table",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hats on a table", "bags on the floor"],
+  "scene_summary": "A busy clothing store with several customers browsing through the racks and shelves. Staff are present but not clearly visible.",
+  "risk_assessment": "low"
+}
+```
+
+---Frame 36---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the hats display",
+      "clothing": "blue sleeveless shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back wall",
+      "clothing": "blue top",
+      "action": "browsing with another person",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back wall",
+      "clothing": "dark clothing",
+      "action": "browsing with another person",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing racks",
+      "clothing": "red/maroon clothing",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the entrance",
+      "clothing": "not visible",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the cash counter",
+      "clothing": "white top",
+      "action": "standing near the counter",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the accessories",
+      "clothing": "dark hair, dark clothing",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "bags on the floor"],
+  "scene_summary": "A busy clothing store with customers browsing various sections.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 37---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "left side, browsing",
+      "clothing": "dark top, light scarf",
+      "action": "browsing through clothes",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the hat display, bending down",
+      "clothing": "blue shirt",
+      "action": "examining hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the hat display, standing",
+      "clothing": "yellow shirt",
+      "action": "standing near hat display",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near mannequins",
+      "clothing": "dark clothing",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near shelves",
+      "clothing": "blue hat, dark clothing",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left side, near clothing racks",
+      "clothing": "light clothing",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left side, near entrance",
+      "clothing": "dark clothing",
+      "action": "entering or observing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "mannequins"],
+  "scene_summary": "A busy clothing store with multiple customers browsing through various sections.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 38---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the back wall",
+      "clothing": "dark",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center aisle",
+      "clothing": "blue hat, dark clothing",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "on the right, near the hats",
+      "clothing": "blue shirt, red hat",
+      "action": "examining hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "on the left, near the wall",
+      "clothing": "white shirt",
+      "action": "standing near a display",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "in the background, near the entrance",
+      "clothing": "not clearly visible",
+      "action": "entering the store",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing racks on the left",
+      "clothing": "yellow shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the clothing racks on the right",
+      "clothing": "not clearly visible",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "bags on the counter"],
+  "scene_summary": "A busy clothing store with customers browsing various sections.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 39---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "near the entrance",
+      "clothing": "dark",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "by the counter",
+      "clothing": "white shirt",
+      "action": "standing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near clothing racks",
+      "clothing": "blue t-shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the back",
+      "clothing": "dark",
+      "action": "walking towards the front",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the hat display",
+      "clothing": "not visible",
+      "action": "not visible",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the bag display",
+      "clothing": "yellow shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "near the center",
+      "clothing": "blue t-shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "bags on the counter"],
+  "scene_summary": "A busy clothing store with customers browsing various sections.",
+  "risk_assessment": "normal"
+}
+```
+
+---Frame 40---
+```json
+{
+  "people_count": 7,
+  "persons": [
+    {
+      "position": "center-left, near wall",
+      "clothing": "dark colors",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, near clothing rack",
+      "clothing": "blue shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "right, near hat display",
+      "clothing": "blue shirt",
+      "action": "viewing hats",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "far-right, near clothing rack",
+      "clothing": "not visible",
+      "action": "browsing",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "background, near exit",
+      "clothing": "various",
+      "action": "entering/exiting",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "left, near staff counter",
+      "clothing": "white shirt",
+      "action": "assisting customer",
+      "behavior_label": "normal"
+    },
+    {
+      "position": "center, browsing",
+      "clothing": "red shirt",
+      "action": "browsing",
+      "behavior_label": "normal"
+    }
+  ],
+  "notable_objects": ["clothing racks", "hat display", "staff counter"],
+  "scene_summary": "Busy retail environment with customers browsing clothing and staff assisting.",
+  "risk_assessment": "normal"
+}
+```
+
